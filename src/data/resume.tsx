@@ -215,6 +215,30 @@ export const DATA = {
       image: "/postflow.png",
       video: "",
     },
+    {
+      title: "Civix - Civic Issue Reporting Platform",
+      href: "https://civix-phi.vercel.app/",
+      dates: "2025",
+      active: true,
+      description:
+        "Civix is a full-stack web application designed to streamline the process of reporting, tracking, and resolving local civic issues such as potholes, broken streetlights, and uncollected garbage. It provides a bridge between citizens and municipal authorities, bringing accountability and transparency to local issue resolution.",
+      technologies: [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Tailwind CSS",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/harshs16/Civix",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/civix.png",
+      video: "",
+    },
   ],
   hackathons: [
     {
