@@ -117,7 +117,7 @@ export const DATA = {
   projects: [
     {
       title: "SocioX",
-      href: "https://github.com/harshs16",
+      href: "https://sociox-connect.vercel.app/",
       dates: "2025",
       active: true,
       description:
@@ -135,16 +135,16 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/harshs16",
+          href: "https://github.com/HarshS16/SocioX",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=400&fit=crop",
+      image: "/SocioX-Logo.png",
       video: "",
     },
     {
       title: "Rheo - Event Management App",
-      href: "https://github.com/harshs16",
+      href: "https://rheo-sigma.vercel.app/",
       dates: "2025",
       active: true,
       description:
@@ -160,16 +160,16 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/harshs16",
+          href: "https://github.com/HarshS16/Eventflow",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=400&fit=crop",
+      image: "/Rheo-Logo.png",
       video: "",
     },
     {
       title: "DevElevate - AI Resume & Portfolio Refiner",
-      href: "https://github.com/harshs16",
+      href: "https://dev-elevate-ma91.vercel.app/",
       dates: "2025",
       active: true,
       description:
@@ -184,11 +184,11 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/harshs16",
+          href: "https://github.com/HarshS16/DevElevate",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=400&fit=crop",
+      image: "/develevate.png",
       video: "",
     },
   ],
