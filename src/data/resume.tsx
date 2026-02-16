@@ -191,6 +191,30 @@ export const DATA = {
       image: "/develevate.png",
       video: "",
     },
+    {
+      title: "PostFlow - Social Media Content Management Platform",
+      href: "https://postflow-by-harsh.vercel.app/",
+      dates: "2025",
+      active: true,
+      description:
+        "A comprehensive full-stack web application for content creators to draft, organize, and schedule social media posts across multiple platforms. Developed as part of the Frontend Developer Intern selection process.",
+      technologies: [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Prisma",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/harshs16/PostFlow",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/postflow.png",
+      video: "",
+    },
   ],
   hackathons: [
     {
