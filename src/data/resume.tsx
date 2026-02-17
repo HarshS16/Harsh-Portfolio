@@ -115,6 +115,7 @@ export const DATA = {
     },
   ],
   projects: [
+  
     {
       title: "SocioX",
       href: "https://sociox-connect.vercel.app/",
@@ -239,6 +240,32 @@ export const DATA = {
       image: "/civix.png",
       video: "",
     },
+    {
+      title: "Chai Culture",
+      href: "https://chai-culture-alpha.vercel.app/",
+      dates: "2025",
+      active: true,
+      description:
+        "A modern, aesthetic landing page dedicated to the art of Chai, celebrating its rich cultural heritage. Built with Vite and React for high performance, the project features smooth, complex animations powered by GSAP and Framer Motion, and a responsive, accessible UI designed with shadcn/ui and Tailwind CSS.",
+      technologies: [
+        "Vite",
+        "React",
+        "TypeScript",
+        "shadcn/ui",
+        "Tailwind CSS",
+        "Framer Motion",
+        "GSAP",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/harshs16/ChaiCulture",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/chai-culture.png",
+      video: "",
+    }
   ],
   hackathons: [
     {
