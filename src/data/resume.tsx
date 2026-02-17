@@ -290,6 +290,31 @@ export const DATA = {
       ],
       image: "/codeinfo.png",
       video: "",
+    },
+    {
+      title: "GiftHunt - AI Gift Discovery",
+      href: "https://gifthunt-phi.vercel.app/",
+      dates: "2025",
+      active: true,
+      description:
+        "An AI-powered gift discovery platform that helps you find the perfect gift based on the occasion, budget, relationship, and interests. Intelligently hunts down thoughtful gifts across the web and delivers tailored suggestions.",
+      technologies: [
+        "React",
+        "Tailwind CSS",
+        "Gemini API",
+        "Node.js",
+        "PostgreSQL",
+      ],
+      links: [
+       
+        {
+          type: "Source",
+          href: "https://github.com/harshs16/GiftHunt",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/gifthunt.png",
+      video: "",
     }
   ],
   hackathons: [
