@@ -315,6 +315,30 @@ export const DATA = {
       ],
       image: "/gifthunt.png",
       video: "",
+    },
+    {
+      title: "Dreamy Tales - AI Bedtime Story Generator",
+      href: "https://dreamy-tales.vercel.app/",
+      dates: "2025",
+      active: true,
+      description:
+        "A magical web application that creates personalized bedtime stories for children using AI, complete with soothing audio narration that feels like a warm hug from grandma. Features dynamic story generation based on child's interests and mood.",
+      technologies: [
+        "React",
+        "Tailwind CSS",
+        "Gemini API",
+        "ElevenLabs",
+        "Framer Motion",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/harshs16/DreamyTales",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/dreamy-tales.png",
+      video: "",
     }
   ],
   hackathons: [
