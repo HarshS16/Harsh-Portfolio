@@ -265,6 +265,31 @@ export const DATA = {
       ],
       image: "/chai-culture.png",
       video: "",
+    },
+    {
+      title: "CodeInfo",
+      href: "https://github.com/harshs16/CodeInfo",
+      dates: "2025",
+      active: true,
+      description:
+        "A command-line tool and web interface for analyzing codebases. Generates detailed statistics including language distribution, file complexity metrics, and structural anomalies.",
+      technologies: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "Python - Fire ( CLI)",
+        "Flask ( Web Server)"
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/harshs16/CodeInfo",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/codeinfo.png",
+      video: "",
     }
   ],
   hackathons: [
