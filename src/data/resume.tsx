@@ -81,7 +81,7 @@ export const DATA = {
   work: [
     {
       company: "Miracle AI",
-      href: "https://miracle.ai",
+      href: "https://miracleai.in",
       badges: [],
       location: "Onsite – Delhi",
       title: "Full Stack Development Intern",
@@ -93,7 +93,7 @@ export const DATA = {
     },
     {
       company: "Vaxalor AI",
-      href: "https://vaxalor.ai",
+      href: "https://vaxalor.com",
       badges: [],
       location: "Hybrid",
       title: "Full Stack Developer Intern",
