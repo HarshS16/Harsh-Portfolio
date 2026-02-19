@@ -103,6 +103,18 @@ export const DATA = {
       description:
         "Owned the end-to-end development of the company's production website using React TypeScript. Integrated Supabase for real-time data sync, authentication, and serverless functions. Delivered multiple full-stack features across the product lifecycle.",
     },
+    {
+      company: "Central Ground Water Board",
+      href: "http://cgwb.gov.in/",
+      badges: [],
+      location: "Faridabad, Haryana",
+      title: "Software Development Intern",
+      logoUrl: "/cgwb.jpg",
+      start: "April 2025",
+      end: "May 2025",
+      description:
+        "Developed a comprehensive data management portal to digitize groundwater records, reducing manual retrieval time by 40%. Implemented automated reporting scripts using Python and SQL to streamline daily data analysis. Designed and deployed user-friendly interfaces for field officers, ensuring seamless data entry and real-time visualization.",
+    },
   ],
   education: [
     {
