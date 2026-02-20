@@ -16,7 +16,7 @@ export const DATA = {
   location: "Noida, India",
   locationLink: "https://www.google.com/maps/place/noida",
   description:
-    "Full Stack Developer & CS undergrad. I build scalable web apps, ship production-grade UIs, and love turning ideas into real products.",
+    "Full Stack Engineer | AI | ML ",
   summary:
     "I'm a Computer Science undergraduate at [JSS Academy of Technical Education](/#education) (specializing in Data Science) with hands-on experience building and shipping full-stack applications. I've interned at [Miracle AI](/#work) and [Vaxalor AI](/#work), where I architected production websites, optimized dashboards, and implemented LLM observability pipelines. I'm passionate about building tools that solve real problems — from [professional networking platforms](/#projects) to [AI-powered career tools](/#projects). I was also recognized as a [Reliance Foundation Scholar](/#achievements) for academic excellence.",
   avatarUrl: "/me.jpg",
